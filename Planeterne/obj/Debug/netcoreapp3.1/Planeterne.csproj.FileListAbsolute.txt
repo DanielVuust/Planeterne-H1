@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\obj\Debug\netcoreapp3.1\Planeterne.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\obj\Debug\netcoreapp3.1\Planeterne.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\obj\Debug\netcoreapp3.1\Planeterne.AssemblyInfo.cs
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\obj\Debug\netcoreapp3.1\Planeterne.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\bin\Debug\netcoreapp3.1\Planeterne.exe
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\bin\Debug\netcoreapp3.1\Planeterne.deps.json
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\bin\Debug\netcoreapp3.1\Planeterne.runtimeconfig.json
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\bin\Debug\netcoreapp3.1\Planeterne.runtimeconfig.dev.json
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\bin\Debug\netcoreapp3.1\Planeterne.dll
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\bin\Debug\netcoreapp3.1\Planeterne.pdb
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\obj\Debug\netcoreapp3.1\Planeterne.dll
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\obj\Debug\netcoreapp3.1\Planeterne.pdb
+C:\Users\danie\source\repos\OOP\Planeterne\Planeterne\obj\Debug\netcoreapp3.1\Planeterne.genruntimeconfig.cache
